@@ -13,7 +13,6 @@ git clone https://github.com/kdrcetintas/react-random-beer-app.git
 cd react-random-beer-app
 yarn install
 yarn start
-open http://localhost:3000
 ```
 
 Description:
