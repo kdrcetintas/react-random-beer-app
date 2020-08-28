@@ -1,0 +1,30 @@
+export interface BreweryLocation {
+    id: string,
+    name: string,
+    streetAddress: string,
+    locality: string,
+    region: string,
+    postalCode: string,
+    phone: string,
+    website: string,
+    isPrimary: string,
+    isPlanning: string,
+    isClosed: string,
+    openToPublic: string,
+    locationType: string,
+    locationTypeDisplay: string,
+    countryIsoCode: string,
+    yearOpened: string,
+    status: string,
+    statusDisplay: string,
+    createDate: string,
+    updateDate: string,
+    country: {
+        isoCode: string,
+        name: string,
+        displayName: string,
+        isoThree: string,
+        numberCode: number,
+        createDate: string
+    }
+}
