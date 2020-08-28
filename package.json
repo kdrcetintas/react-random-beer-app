@@ -1,7 +1,12 @@
 {
 	"name": "react-random-beer-app",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Simple react app with redux, redux-thunk",
+	"author": {
+		"email": "mail@kadircetintas.com",
+		"name": "Kadir Çetintaş",
+		"url": "https://github.com/kdrcetintas/react-random-beer-app"
+	},
 	"keywords": [],
 	"main": "src/index.tsx",
 	"dependencies": {
